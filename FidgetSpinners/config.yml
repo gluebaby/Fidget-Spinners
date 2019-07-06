@@ -1,0 +1,13 @@
+#1.7 Version
+
+name: "&7Fidget Spinner"
+lore: 
+  - "&c1 hand on my"
+  - "&cfidget spinner"
+  - "&cthe other on my"
+  - "&cglock."
+sounds:
+  - "&7*spin spin*"
+  - "&7*whiz whiz*"
+  - "&7*kys*"
+no-permission: "&cYou do not have permission to use this!"
